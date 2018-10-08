@@ -1,7 +1,7 @@
 {
   "name": "ma-track",
   "version": "1.0.0",
-  "description": "",
+  "description": "ma track",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,16 @@
   "license": "ISC",
   "dependencies": {
     "sa-sdk-javascript": "^1.11.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:GitHubJiKe/ma-track.git"
+  },
+  "keywords": [
+    "ma",
+    "track"
+  ],
+  "engines": {
+    "node": ">=0.6"
   }
 }
